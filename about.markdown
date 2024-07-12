@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I have sixteen years of experience in the use of fluorescence microscopy for the quantitative characterization of cellular processes, ranging from the molecular organisation of protein complexes, and their dynamics, to the description of cell collective migration.
+<img src="/images/me.jpg" alt="me" align="left" style="width: 150px;" hspace="20"/>
 
-I firmly believe that successful quantitative microscopy experiments require finding an optimum between the right fluorescence microscopy techniques, and the appropriate image and data analysis pipelines so that the experiment design compensates for the weaknesses of one discipline with the strengths of the others.  Thus, quantitative microscopy is planning each details of your image acquisition with in mind the strengths and weaknesses of the image analysis that you plan to do afterwards, and the data analysis that you aim for. This can be achieved only by excelling in each discipline. 
+I have sixteen years of experience using fluorescence microscopy to quantitatively characterize cellular processes, ranging from the molecular organization of protein complexes and their dynamics to the description of cell collective migration.
 
-My consulting will help you to find the right balance in between these details, and the development of the image and data analysis pipelines, to push your quantitative microscopy further.  
+Successful quantitative microscopy experiments require finding an optimum between the suitable fluorescence microscopy techniques and the appropriate image and data analysis pipelines so that the experiment design compensates for the weaknesses of each discipline with the strengths of the others. Thus, the design of a successful quantitative microscopy experiment starts by planning each detail of your image acquisition with in mind the strengths and weaknesses of the image analysis that you intend to do afterwards and the data analysis that you aim for. 
+
+Designing such an experiment demands excellence in microscopy and image and data analysis techniques, which is what I offer. My consulting service aims to guide you in finding the delicate balance between these disciplines so that you can perfect and boost your quantitative microscopy.
 
 Contact [andrea.picco@mida.science](mailto:andrea.picco@mida.science?subject=Request for consulting)
