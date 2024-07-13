@@ -4,7 +4,7 @@ title:  "The evolution of endocytosis"
 image: /images/Protein_lifetimes.pdf
 ---
 
-TIRF microscopy enables the precise measurement of the lifetime of endocytic orthologs individually tagged with EGFP in three fungal species: Saccharomyces cerevisiae, Scyzosaccharomices pombe, and Ustilago maydis. 
+TIRF microscopy enables the precise measurement of the lifetime of endocytic orthologs individually tagged with EGFP in three fungal species: *Saccharomyces cerevisiae*, *Scyzosaccharomices pombe*, and *Ustilago maydis*. 
 
 The lifetimes in each species are registered together using the appearance of an actin marker tagged with mCherry, which is imaged simultaneously to the EGFP-tagged orthologs and acts as a fiducial. The alignment of the different lifetimes defines a fingerprint of the endocytic process in each species. 
 

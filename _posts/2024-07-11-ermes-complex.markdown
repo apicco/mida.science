@@ -3,17 +3,18 @@ layout: post
 title:  "The stoichiometry of the ERMES complex"
 image: /images/wozny_nature.pdf
 ---
+The endoplasmic reticulum–mitochondria encounter structure (ERMES) tethers the endoplasmatic reticulum and mitochondria. It is a four-subunit complex whose stoichiometry and architecture were unknown. 
 
-TIRF microscopy enables the precise measurement of the lifetime of endocytic orthologs individually tagged with EGFP in three fungal species: Saccharomyces cerevisiae, Scyzosaccharomices pombe, and Ustilago maydis. 
+Wide-filed microscopy images show subunits of the ERMES complex, tagged with EGFP as puncta. Spotquant, a tool for quantitative analysis, compared the brightness of these puncta with the kinetochore structures, whose stoichiometry is known. These structures acted as fiducials, calibrating the fluorescence intensity of the ERMES to measure the number of molecules.
 
-The lifetimes in each species are registered together using the appearance of an actin marker tagged with mCherry, which is imaged simultaneously to the EGFP-tagged orthologs and acts as a fiducial. The alignment of the different lifetimes defines a fingerprint of the endocytic process in each species. 
-
-Differential evanescent TIRF precisely identifies the beginning of the invagination movement with respect to the actin marker and, thus, within the endocytic fingerprint of each species. The timing of the start of the invagination movement allows species-to-species comparison. Time 0 marks the beginning of the invagination movement globally.
+The integration of the stoichiometry of the ERMES complex with cryo-correlative microscopy, subtomogram averaging and molecular modelling helped resolve the ERMES complex's architecture with unprecedented detail.
 
 References:
 
-- [Picco, Toret, Rivier, and Kaksonen, Biorxiv, 2024][biorxiv]
-- [Github repository][github-repo]
+- [Wozny, *et al*, Nature, 2023][nature]
+- [Wozny, *et al*, BiorXiv, 2022][biorxiv]
+- [Spotquant github repository][github-repo]
 
-[biorxiv]: https://www.biorxiv.org/content/10.1101/2024.03.28.587219v1
-[github-repo]: https://github.com/apicco/EvoCellBio/tree/main/Protein_lifetimes
+[nature]: https://www.nature.com/articles/s41586-023-06050-3
+[biorxiv]: https://www.biorxiv.org/content/10.1101/2022.04.12.488000v1
+[github-repo]: https://github.com/apicco/spotquant?tab=readme-ov-file#spotquant
