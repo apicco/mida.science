@@ -7,4 +7,4 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Microscopy, Image, and Data Analysis solutions for Science
+A selection of examples of Microscopy, Image, and Data Analysis solutions for Science:
