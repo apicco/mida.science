@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 image: /images/me.jpg
 ---
-
-<img src="{{page.image}}" alt="me" align="left" style="width: 150px;" hspace="20"/>
+<img src="{{page.image}}" class="round-image" alt="me" style="width: 200px;" hspace="20">
 
 I have sixteen years of experience using fluorescence microscopy to quantitatively characterize cellular processes, ranging from the molecular organization of protein complexes and their dynamics to the description of cell collective migration.
 
@@ -13,4 +12,8 @@ Successful quantitative microscopy experiments require finding an optimum betwee
 
 Designing such an experiment demands excellence in microscopy and image and data analysis techniques, which is what I offer. My consulting service aims to guide you in finding the delicate balance between these disciplines so that you can perfect and boost your quantitative microscopy.
 
+I published my work in various peer-reviewed journals, including Nature, Cell, eLife, MBoC, and Current Biology, and I contributed to two book chapters for Methods in Cell Biology. A complete publication list can be found [here][orcid]
+
 Contact [andrea.picco@mida.science](mailto:andrea.picco@mida.science?subject=Request for consulting)
+
+[orcid]: https://orcid.org/0000-0003-2548-9183#works
