@@ -2,6 +2,9 @@
 layout: post
 title:  "The evolution of endocytosis"
 image: /images/Protein_lifetimes.pdf
+caption: 
+    Bar graph showing the time of appearance and disappearance of each endocytic ortholog in respect to the beginning of the invagination movement, in each species. 
+    Error bars represent the SD for each measurement. Time 0 s marks the estimation of the beginning of the invagination movement. The dashed vertical lines represent its SD. (Picco, Toret, Rivier, and Kaksonen, Biorxiv, 2024)
 ---
 
 TIRF microscopy enables the precise measurement of the lifetime of endocytic orthologs individually tagged with EGFP in three fungal species: *Saccharomyces cerevisiae*, *Scyzosaccharomices pombe*, and *Ustilago maydis*. 
