@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+image: /images/me.jpg
 ---
 
-<img src="/images/me.jpg" alt="me" align="left" style="width: 150px;" hspace="20"/>
+<img src="{{page.image}}" alt="me" align="left" style="width: 150px;" hspace="20"/>
 
 I have sixteen years of experience using fluorescence microscopy to quantitatively characterize cellular processes, ranging from the molecular organization of protein complexes and their dynamics to the description of cell collective migration.
 
