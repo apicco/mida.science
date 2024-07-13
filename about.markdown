@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /images/me.jpg
+image: /assets/images/me.jpg
 ---
 <img src="{{page.image}}" class="round-image" alt="me" style="width: 200px;" hspace="20">
 

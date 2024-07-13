@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tracking of endocytic dynamics"
-image: /images/Sla1-invagination.png
+image: /assets/images/Sla1-invagination.png
 caption: 
     The inward movement along the plasma membrane invagination axis of 67 Sla1-GFP trajectories. The trajectories are aligned in space and time and averaged using hte trajalign python library. One pixel (pxl) equals 100 nm.
 ---
