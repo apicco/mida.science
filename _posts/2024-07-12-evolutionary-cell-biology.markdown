@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The evolution of endocytosis"
+title:  "Evolution of endocytosis"
 image: /images/Protein_lifetimes.pdf
 caption: 
     Bar graph showing the time of appearance and disappearance of each endocytic ortholog in respect to the beginning of the invagination movement, in each species. 

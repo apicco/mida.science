@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The stoichiometry of the ERMES complex"
+title:  "Stoichiometry of the ERMES complex"
 image: /images/wozny_nature.pdf
 caption: 
     (A) Live cell imaging of budding yeast cells expressing Tom20-mCherry, marking mitochondria, and Mdm34-mNeonGreen, marking ERMES-mediated MCS. In the fluorescence image (top) white dashed outlines mark cell boundaries according to bright field image (bottom). 
