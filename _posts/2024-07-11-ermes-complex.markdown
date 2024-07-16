@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stoichiometry of the ERMES complex"
-image: /assets/images/wozny_nature.pdf
+image: /assets/images/wozny_nature.png
 caption: 
     (A) Live cell imaging of budding yeast cells expressing Tom20-mCherry, marking mitochondria, and Mdm34-mNeonGreen, marking ERMES-mediated MCS. In the fluorescence image (top) white dashed outlines mark cell boundaries according to bright field image (bottom). 
     (B) Live cell FM of yeast cells expressing either Cse4-EGFP, Mmm1-EGFP, Mdm12-EGFP or Mdm34-EGFP. White dashed outlines mark cell boundaries. Cells expressing the kinetochore protein Cse4-EGFP, of which the number of molecules per diffraction limited spot is known (36) were used as a reference to determine the number of molecules of ERMES components. 

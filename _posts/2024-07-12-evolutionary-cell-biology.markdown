@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evolution of endocytosis"
-image: /assets/images/Protein_lifetimes.pdf
+image: /assets/images/Protein_lifetimes.png
 caption: 
     Bar graph showing the time of appearance and disappearance of each endocytic ortholog in respect to the beginning of the invagination movement, in each species. 
     Error bars represent the SD for each measurement. Time 0 s marks the estimation of the beginning of the invagination movement. The dashed vertical lines represent its SD. (Picco, Toret, Rivier, and Kaksonen, Biorxiv, 2024)

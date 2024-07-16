@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Architecture of the exocyst complex"
-image: /assets/images/exocyst_distances.pdf
+image: /assets/images/exocyst_distances.png
 caption: 
     Dataset of distances between the fluorophores in the subunits tagged with GFP and anchor mCherry using the subunit on the y-axis (FRB tagged baits) to mediate the recruitment. Each box title indicates the subunit tagged with GFP.
     The Sec2 box shows all the subunit distances with the circles and Sec2-GFP distances with the filled dots. Error bars show the SE. 
