@@ -190,19 +190,32 @@
     padding-top: 10%;
     padding-left: 20%;
     padding-right: 20%;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
 }
 
 @include media-query($on-palm) {
     .page-banner {
-        @include relative-font-size(1.5);
+        @include relative-font-size(1.75);
         text-align: center;
         padding-top: 10%;
         padding-left: 10%;
         padding-right: 10%;
-        padding-bottom: 10%;
+        padding-bottom: 8%;
     }
 }
+.page-home {
+    text-align: justify;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+@include media-query($on-palm) {
+	.page-home {
+	    text-align: justify;
+	    padding-left: 15%;
+	    padding-right: 15%;
+	}
+}
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }
