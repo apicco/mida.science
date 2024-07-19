@@ -9,5 +9,5 @@ banner: We provide innovative Microscopy, Image, and Data Analysis solutions for
 Read [About](/about/) MIDA.science, 
 get inspired by its [Portfolio](/portfolio/), 
 check its [Services](/services/), 
-and [contact](mailto:andrea.picco@mida.science?subject=Request for consulting) MIDA.science for inquires
+and [contact](mailto:andrea.picco@mida.science?subject=Request for consulting) MIDA.science for inquires.
 
