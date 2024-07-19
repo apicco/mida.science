@@ -20,15 +20,7 @@ We can assist you in choosing, adapting, or developing image analysis solutions 
 
 We provide an extensive experience in data analysis and statistics solutions to interpret measurements. Again, planning your experiment influences the data analysis you can do, the noise of the measurements, the significance you can aim for, and the possible systematic errors. All of these can be optimized with careful planning of the imaging experiment and with a proper choice of the number of data points you will need to acquire to perform your analysis.
 
-[**Contact**](mailto:andrea.picco@mida.science?subject=Request for consulting)
-
-**References**
-
-[Merrifield, *et al.* Nat. Cell Biol., 2002][merrifield-2002]
-
-[Merrifield, *et al.* Cell, 2005][merrifield-2005]
-
-[Saffarian, *et al.* Biophys J., 2008][saffarian]
+[**Contact MIDA.science**](mailto:andrea.picco@mida.science?subject=Request for consulting)
 
 [merrifield-2002]: https://doi.org/10.1529/biophysj.107.117234
 [merrifield-2005]: https://doi.org/10.1016/j.cell.2005.03.015
