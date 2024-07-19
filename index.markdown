@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Microscopy, Image, and Data Analysis solutions for Science
+We provide innovative Microscopy, Image, and Data Analysis solutions for Science.
+
+

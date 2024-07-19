@@ -49,7 +49,3 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
-// background image
-@mixin background-image($image) {
-    background-image: url( $image );
-}

@@ -181,9 +181,14 @@
 }
 
 .page-heading {
-  @include relative-font-size(2);
 }
 
+.page-banner {
+    @include relative-font-size(2);
+    text-align: center;
+    padding: 20%;
+
+}
 .post-list-heading {
   @include relative-font-size(1.75);
 }
@@ -266,8 +271,8 @@
 /* background image */
 .bg {
 
-    @include background-image( "/assets/images/microscope.jpg" )
-
+    background-image: url( "/assets/images/microscope.jpeg" );
+   
     /* Full height */
     height: 100%;
 
