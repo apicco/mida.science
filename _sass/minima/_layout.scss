@@ -262,3 +262,18 @@
 .round-image {
     border-radius: 10%;
 }
+
+/* background image */
+.bg {
+
+    @include background-image( "/assets/images/microscope.jpg" )
+
+    /* Full height */
+    height: 100%;
+
+    /* Layout */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
