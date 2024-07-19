@@ -3,8 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+banner: We provide innovative Microscopy, Image, and Data Analysis solutions for Science.
 ---
-
-We provide innovative Microscopy, Image, and Data Analysis solutions for Science.
-
-

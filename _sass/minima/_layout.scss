@@ -181,12 +181,16 @@
 }
 
 .page-heading {
+    @include relative-font-size(2);
 }
 
 .page-banner {
     @include relative-font-size(2);
     text-align: center;
-    padding: 20%;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 10%;
 
 }
 .post-list-heading {
