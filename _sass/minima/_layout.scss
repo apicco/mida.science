@@ -318,7 +318,7 @@
     display : block;
     margin: 0 auto;
     @include media-query($on-palm) {
-        width: $on-palm;
+        width: 90%;
     }
 }
 
