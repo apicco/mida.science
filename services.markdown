@@ -8,13 +8,13 @@ permalink: /services/
 
 **Microscopy**
 
-I excel in all the fluorescence microscopy techniques, from confocal to wide-field microscopy, with a particular emphasis on quantitative methods such as localization microscopy, FRAP (Fluorescence Recovery After Photobleaching) microscopy, TIRF (Total Internal Reflection Fluorescence) microscopy, differential evanescence field nanometry ([Merrifield, *et al.*, 2002][merrifield-2002]; [Merrifield, *et al.*, 2005][merrifield-2005], [Saffarian, *et al.*, 2008][saffarian]), 
+I excel in fluorescence microscopy techniques, from confocal to wide-field microscopy, with a particular emphasis on quantitative methods such as localization microscopy, FRAP (Fluorescence Recovery After Photobleaching) microscopy, TIRF (Total Internal Reflection Fluorescence) microscopy, differential evanescence field nanometry ([Merrifield, *et al.*, 2002][merrifield-2002]; [Merrifield, *et al.*, 2005][merrifield-2005], [Saffarian, *et al.*, 2008][saffarian]), 
 and microscopy automation and computer vision for high throughput of rare events.
 I can assist you with everything from the planning of such experiments, such as sample preparation and genomic engineering or the optimization of the microscope light path, to the development of dedicated software or the execution of the imaging itself.
 
 **Image Analysis**
 
-I can assist you in choosing, adapting, or developing image analysis solutions that best suit your experiment goals. Moreover, Image analysis is not a magic tool that outputs quantitative information from any image. It is intimately linked to the imaging process. Our experience with microscopy will help you optimize the planning of your imaging experiment to maximize the quality of the image analysis quantitative output.
+I can assist you in choosing, adapting, or developing image analysis solutions that best suit your experiment goals. Moreover, Image analysis is not a magic tool that outputs quantitative information from any image. It is intimately linked to the imaging process. My experience with microscopy will help you optimize the planning of your imaging experiment to maximize the quality of the image analysis quantitative output.
 
 **Data Analysis**
 
