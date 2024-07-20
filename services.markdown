@@ -13,7 +13,7 @@ I excel in fluorescence microscopy techniques, from confocal to wide-field micro
 and microscopy automation and computer vision for high throughput of rare events.
 I can assist you with everything from the planning of such experiments, such as sample preparation and genomic engineering or the optimization of the microscope light path, to the development of dedicated software or the execution of the imaging itself.
 
-|![video](/assets/videos/Epi-Tirf-scale_bar-7x-faster_big.mov)|
+|<video  class="centred-video" width="640" height="212" autoplay loop><source src="/assets/videos/Epi-Tirf-scale_bar-7x-faster_big.mov" type="video/mp4"></video>|
 |*Differential evanescence field imaging of endocytosis in baker yeast Saccharomyces cerevisiae. In <span style="color:green">green</span> is an endocytic coat marker, Sla1, tagger with EGFP. In <span style="color:magenta">magenta</span>  is an actin crosslinker, Sac6, tagged with mCherry. From left to right: bright field image, wide-field movie (WF), and TIRF movies on the green and red channels. I acquired the two TIRF images simultaneously with a Hamamatsu Gemini beam splitter. Measuring the beginning of the coat internalisation is possible by comparing the time a green spot disappears in the TIRF movie to the WF movie. Movie plays 7x faster.*|
 
 |![video](/assets/videos/1-s2.0-S0960982222004092-mmc5.mov)|
