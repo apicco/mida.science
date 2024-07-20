@@ -320,3 +320,8 @@
     width: 80%;
 }
 
+@include media-query($on-palm) {
+    .centred-video {
+        width: 40%;
+    }
+}
