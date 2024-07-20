@@ -317,11 +317,8 @@
 .centred-video {
     display : block;
     margin: 0 auto;
-    width: 80%;
-}
-
-@include media-query($on-palm) {
-    .centred-video {
-        width: 40%;
+    @include media-query($on-palm) {
+        width: 50%;
     }
 }
+

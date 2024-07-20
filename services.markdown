@@ -16,14 +16,14 @@ I can assist you with everything from the planning of such experiments, such as 
 |<video  class="centred-video" width="640" height="212" autoplay loop><source src="/assets/videos/Epi-Tirf-scale_bar-7x-faster_big.mov" type="video/mp4"></video>|
 |*Differential evanescence field imaging of endocytosis in baker yeast Saccharomyces cerevisiae. In <span style="color:green">green</span> is an endocytic coat marker, Sla1, tagger with EGFP. In <span style="color:magenta">magenta</span>  is an actin crosslinker, Sac6, tagged with mCherry. From left to right: bright field image, wide-field movie (WF), and TIRF movies on the green and red channels. I acquired the two TIRF images simultaneously with a Hamamatsu Gemini beam splitter. Measuring the beginning of the coat internalisation is possible by comparing the time a green spot disappears in the TIRF movie to the WF movie. Movie plays 7x faster.*|
 
-|![video](/assets/videos/1-s2.0-S0960982222004092-mmc5.mov)|
+|<video  class="centred-video" width="364" height="176" autoplay loop><source src="/assets/videos/1-s2.0-S0960982222004092-mmc5.mov" type="video/mp4"></video>|
 |*Optical tickling of F. alba invasive collectives, imaged in bright field. Scale bar is 25 &mu;m. [Toret, et al., 2022][toret]*|
 
 # Image Analysis
 
 I can assist you in choosing, adapting, or developing image analysis solutions that best suit your experiment goals. Moreover, Image analysis is not a magic tool that outputs quantitative information from any image. It is intimately linked to the imaging process. My experience with microscopy will help you optimize the planning of your imaging experiment to maximize the quality of the image analysis quantitative output.
 
-|![video](/assets/videos/tracking_endocytosis.mov)|
+|<video  class="centred-video" width="500" height="300" autoplay loop><source src="/assets/videos/tracking_endocytosis.mov" type="video/mp4"></video>|
 |*Centroid tracking of an endocytic coat marker (Sla1) tagged with EGFP and imaged as a diffraction limited spot in wide-field microscopy. Sla1 dynamic acts as a proxy for the endocytic invagination growth. The CLEM image on the right shows a mature endocytic invagination for comparison. Scale bar is 100 &mu;m and applies to both images.*|
 
 # Data Analysis
