@@ -16,7 +16,7 @@ I can assist you with everything from the planning of such experiments, such as 
 |<video  class="centred-video" width="640" height="212" autoplay loop><source src="/assets/videos/Epi-Tirf-scale_bar-7x-faster_big.mov" type="video/mp4"></video>|
 |*Differential evanescence field imaging of endocytosis in baker yeast Saccharomyces cerevisiae. In <span style="color:green">green</span> is an endocytic coat marker, Sla1, tagger with EGFP. In <span style="color:magenta">magenta</span>  is an actin crosslinker, Sac6, tagged with mCherry. From left to right: bright field image, wide-field movie (WF), and TIRF movies on the green and red channels. I acquired the two TIRF images simultaneously with a Hamamatsu Gemini beam splitter. Measuring the beginning of the coat internalisation is possible by comparing the time a green spot disappears in the TIRF movie to the WF movie. Movie plays 7x faster.*|
 
-|<video  class="centred-video" width="364" height="176" controls><source src="/assets/videos/1-s2.0-S0960982222004092-mmc5.mov" type="video/mp4"></video>|
+|<video  class="centred-video" width="364" height="176" controls loop><source src="/assets/videos/1-s2.0-S0960982222004092-mmc5.mov" type="video/mp4"></video>|
 |*Optical tickling of F. alba invasive collectives, imaged in bright field. Scale bar is 25 &mu;m. [Toret, et al., 2022][toret]*|
 
 # Image Analysis
