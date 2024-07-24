@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 [MIDA.science](/) offers comprehensive assistance in all the technical aspects required for quantitative microscopy experiments and image and data analysis, and helps you find the optimal balance between them to fully unleash the potential of your quantitative microscopy experiments.
-Read about our [Microscopy](#microscopy), [Image Analysis](#image-analysis), and [Data Analysis](#data-analysis) services.
+Read about my [Microscopy](#microscopy), [Image Analysis](#image-analysis), and [Data Analysis](#data-analysis) services.
 
 # Microscopy
 
