@@ -28,7 +28,7 @@ I can assist you in choosing, adapting, or developing image analysis solutions t
 
 # Data Analysis
 
-I provide an extensive experience in data analysis and statistics solutions to interpret measurements. Again, planning your experiment influences the data analysis you can do, the noise of the measurements, the significance you can aim for, and the possible systematic errors. All of these can be optimized with careful planning of the imaging experiment and with a proper choice of the number of data points you will need to acquire to perform your analysis.
+I have extensive experience in data analysis and statistics solutions to interpret measurements. The data analysis one can do is intimately linked to the quality of the quantitative experiment, such as the noise of the measurements or the possible systematic errors, and its goals, such as the significance aimed at. I will thus also help you optimize the data analysis by carefully planning the imaging experiment and its image analysis.
 
 |![image](/assets/images/statistics.png)|
 |*Statistical analysis of a dataset used to estimate the separation between distinct fluorophores imaged in close proximity. [Picco, et al., 2017][picco-cell], [Churchmann, et al., 2006][churchmann]*|
