@@ -31,7 +31,10 @@ I can assist you in choosing, adapting, or developing image analysis solutions t
 I have extensive experience in data analysis and statistics solutions to interpret measurements. The data analysis one can do is intimately linked to the quality of the quantitative experiment, such as the noise of the measurements or the possible systematic errors, and its goals, such as the significance aimed at. I will also help you optimize the data analysis by carefully planning the imaging experiment and its image analysis.
 
 |![image](/assets/images/statistics.png)|
-|*Statistical analysis of a dataset used to estimate the separation between distinct fluorophores imaged in close proximity. [Picco, et al., 2017][picco-cell], [Churchmann, et al., 2006][churchmann]*|
+|*Maximum Likelihood Estimate MLE of the probability distribution $P$ describing the separation of 
+centroid positions ([Churchmann, et al., 2006][churchmann]) to determine the true separation &mu; between proximal fluorophores. 
+The MLE was computed on the coreset (red histogram) of the original dataset (grey histogram) to estimate the separation between distinct fluorophores 
+imaged in close proximity. [Picco, et al., 2017][picco-cell]*|
 
 [**Contact MIDA.science**](mailto:andrea.picco@mida.science?subject=Request for consulting)
 
